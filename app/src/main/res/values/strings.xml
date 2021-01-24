@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WhoCase</string>
+    <string name="response_is_empty">Response is empty</string>
+    <string name="try_again">Try again</string>
+    <string name="end_of_the_list">You are at end of the list</string>
+    <string name="refresh_list">Refresh list</string>
+    <string name="alert_title">Alert</string>
+    <string name="alert_negative_button_title">Close</string>
+</resources>
